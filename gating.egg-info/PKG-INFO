@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: gating
+Version: 0.0.0
+Summary: Codeto perform gating in data from csv tables
+Author-email: Luiza Cherobini Pereira <luiza.cp1998@gmail.com>
+License: MIT-License
+Keywords: gate,graph
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
