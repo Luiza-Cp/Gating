@@ -7,7 +7,7 @@
   <a href="https://github.com/github_username/repo_name">
   </a>
 
-<h3 align="center">Gating</h3>
+<h1 align="center">Gating</h1>
 
   <p align="center">
     Gating is an simple application to plot data from a csv and create and allow users to gate the data.
@@ -76,9 +76,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Luiza Cherobini Pereira  - luiza.cp1998@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Luiza-Cp/Gating] (https://github.com/Luiza-Cp/Gating)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
