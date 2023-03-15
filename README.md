@@ -26,7 +26,7 @@ You can pip intall the package by typing any of the following:
    pip install gating 
    ```
    ```sh
-   pip install link do repo aqui
+   pip install https://github.com/Luiza-Cp/Gating
    ```
 
 
@@ -78,7 +78,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Luiza Cherobini Pereira  - luiza.cp1998@gmail.com
 
-Project Link: [https://github.com/Luiza-Cp/Gating] (https://github.com/Luiza-Cp/Gating)
+Project Link: https://github.com/Luiza-Cp/Gating
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
